@@ -7,7 +7,7 @@ https://pintu544.github.io/stopwatch/
 <!DOCTYPE html>
 <html>
 <head>
-<title>stopwatch</title>
+
 </head>
 <body>
 
@@ -22,10 +22,8 @@ When the "Stop" button is pressed/clicked it stops the timer.
 We then have two options: we can either Go again to keep counting or Clear.
 Clicking/Pressing the Clear button simply clears/resets the current count..</p>
 <img src="https://github.com/pintu544/stopwatch/blob/main/Screenshot%20(170).png" alt="stop stopwatch screenshot:">
-<img src="https://github.com/pintu544/stopwatch/blob/main/Screenshot%20(170).png 
-" alt="start stopwatch screenshot:">
-<img src="https://github.com/pintu544/stopwatch/blob/main/Screenshot%20(169).png 
-" alt="reset stopwatch screenshot:">
+<img src="https://github.com/pintu544/stopwatch/blob/main/Screenshot%20(170).png" alt="start stopwatch screenshot:">
+<img src="https://github.com/pintu544/stopwatch/blob/main/Screenshot%20(169).png" alt="reset stopwatch screenshot:">
 
 </body>
 </html>
