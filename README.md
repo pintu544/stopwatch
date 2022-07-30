@@ -1,4 +1,7 @@
 # stopwatch
+Try it:
+https://pintu544.github.io/stopwatch/
+
 It's a StopWatch .it's has three buttton ,stop,start,reset.
 When the "Stop" button is pressed/clicked it stops the timer.
 We then have two options: we can either Go again to keep counting or Clear.
